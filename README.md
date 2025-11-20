@@ -1,4 +1,4 @@
-# The "Omni" World Model: A Comprehensive Research & Engineering Plan (Version 2.0)
+# The "Omni" World Model: A Comprehensive Research & Engineering Plan
 
 **Vision:** To create a production-ready, explainable AI system that models the world as a dynamic, hierarchical temporal knowledge graph. This model will be capable of calculating calibrated probabilities of future events, forecasting causal ripple effects, and providing interpretable reasoning for its predictions.
 
